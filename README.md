@@ -21,5 +21,4 @@ Compete against the AI in two different game modes-
 2\. Click on the `Add` button.  
 3\. Navigate to the Smarticar repository folder and select the `Smarticar` folder.
 
-<img src="docs/images/user-manual/open-in-editor/step_1.png" alt="Step 1" align="middle" width=330/>
-<img src="docs/images/user-manual/open-in-editor/step_2.png" alt="Step 1" align="middle" width=330/>
+![Step 1](docs/images/user-manual/open-in-editor/steps.png)
