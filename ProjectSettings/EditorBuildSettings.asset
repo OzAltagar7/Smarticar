@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/MainMenu.unity
+    guid: 100ac789c75b08943a087f395674add7
+  - enabled: 1
+    path: Assets/Scenes/ChooseMode/ChooseMode.unity
+    guid: cde49e1f05f899443b928394aa2461e3
+  - enabled: 1
+    path: Assets/Scenes/Racetrack/Racetrack.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Parking/Parking.unity
+    guid: b8858e0167bb0bf4ebe59b82fdfa4960
+  m_configObjects: {}
