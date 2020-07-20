@@ -20,7 +20,9 @@ In the **Racetrack mode**, the agent's observations consisted of 8 raycasts bein
 
 In the **Parking mode**, the agent's observations consisted of 8 raycasts being casted at all directions around the player, the distance from the player to the chosen parking lot, the direction to the parking lot and the direction the car is currently facing. The agent's possible actions consisted of turning either left, right forward or backwards.
 
-![Parking Mode Training](docs/images/general-algorithm/parking_mode_training.gif)
+<div align="center">
+    <img src="docs/images/general-algorithm/parking_mode_training.gif" alt="Parking Mode Training">
+</div>
 
 ## User Manual
 
