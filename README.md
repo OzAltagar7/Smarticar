@@ -48,29 +48,29 @@ In the **Parking mode**, the agent's observations consisted of 8 raycasts being 
 2. Press the START button for starting the game
 
 <div align="center">
-    <img src="docs/images/user-manual/how-to-play/step_2.png" alt="Game mode selection">
+    <img src="docs/images/user-manual/how-to-play/step_2.png" alt="Game mode selection" width=700>
 </div>
 
 3. Choose the desired game mode 
 
 <div align="center">
-    <img src="docs/images/user-manual/how-to-play/step_3.png" alt="Game mode selection">
+    <img src="docs/images/user-manual/how-to-play/step_3.png" alt="Game mode selection" width=700>
 </div>
 
 4. After choosing a game mode, the game instructions will appear
 
 <div align="center">
-    <img src="docs/images/user-manual/how-to-play/step_4.png" alt="Game instructions">
+    <img src="docs/images/user-manual/how-to-play/step_4.png" alt="Game instructions" width=700>
 </div>
 
 5. After the countdown, the game will start and will end as soon as one the players wins (first to complete 2 consecutive laps). you can pause the game at any time by pressing on the ESC button
 
 <div align="center">
-    <img src="docs/images/user-manual/how-to-play/step_5.png" alt="Gameplay">
+    <img src="docs/images/user-manual/how-to-play/step_5.png" alt="Gameplay" width=700>
 </div>
 
 6. At the end of the game, stats will be displayed
 
 <div align="center">
-    <img src="docs/images/user-manual/how-to-play/step_6.png" alt="End of game">
+    <img src="docs/images/user-manual/how-to-play/step_6.png" alt="End of game" width=700>
 </div>
