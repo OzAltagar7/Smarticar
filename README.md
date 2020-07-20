@@ -8,7 +8,8 @@ Compete against the AI in two different game modes-
 - **Racetrack**, first to complete two consecutive laps
 - **Parking**, park as much as you can in different random parking spots in one minute
 
-for a complete documentation (hebrew), visit [Smarticar.pdf](docs/Smarticar.pdf) in `docs`
+for a complete documentation (hebrew), visit [Smarticar.pdf](docs/Smarticar.pdf) in `docs`.  
+for the apllication code, visit the [Scripts](Smarticar\Assets\Scripts) folder under `Smarticar\Assets\Scripts`
 
 ## General Algorithm
 
@@ -41,6 +42,12 @@ In the **Parking mode**, the agent's observations consisted of 8 raycasts being 
 
 ### Playing Instructions
 
+<style>
+    #tutorial-image {
+        border: 2px solid black;
+    }
+</style>
+
 1. Unzip Smarticar.rar. After unzipping the folder, run `Smarticar.exe` in order to start the application
 
 ![Run Smarticar.exe](docs/images/user-manual/how-to-play/step_1.png)
@@ -48,29 +55,29 @@ In the **Parking mode**, the agent's observations consisted of 8 raycasts being 
 2. Press the START button for starting the game
 
 <div align="center">
-    <img src="docs/images/user-manual/how-to-play/step_2.png" alt="Game mode selection" width=700>
+    <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_2.png" alt="Game mode selection">
 </div>
 
 3. Choose the desired game mode 
 
 <div align="center">
-    <img src="docs/images/user-manual/how-to-play/step_3.png" alt="Game mode selection" width=700>
+    <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_3.png" alt="Game mode selection">
 </div>
 
 4. After choosing a game mode, the game instructions will appear
 
 <div align="center">
-    <img src="docs/images/user-manual/how-to-play/step_4.png" alt="Game instructions" width=700>
+    <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_4.png" alt="Game instructions">
 </div>
 
 5. After the countdown, the game will start and will end as soon as one the players wins (first to complete 2 consecutive laps). you can pause the game at any time by pressing on the ESC button
 
 <div align="center">
-    <img src="docs/images/user-manual/how-to-play/step_5.png" alt="Gameplay" width=700>
+    <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_5.png" alt="Gameplay">
 </div>
 
 6. At the end of the game, stats will be displayed
 
 <div align="center">
-    <img src="docs/images/user-manual/how-to-play/step_6.png" alt="End of game" width=700>
+    <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_6.png" alt="End of game">
 </div>
