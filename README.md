@@ -6,7 +6,7 @@ A self driving car created using [Unity ML-Agents](https://github.com/Unity-Tech
 Compete against the AI in two different game modes-  
 
 - **Racetrack**, first to complete two consecutive laps
-- **Parking**, park as much as you can in different parking spots in one minute
+- **Parking**, park as much as you can in different random parking spots in one minute
 
 for a complete documentation (hebrew), visit [Smarticar.pdf](docs/Smarticar.pdf) in `docs`
 
