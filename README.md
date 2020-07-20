@@ -16,7 +16,11 @@ The agents in both game modes were trained using reinforcement learning (an area
 
 In the **Racetrack mode**, the agent's observations consisted of 8 raycasts being casted at all directions around the player while the possible actions consisted of turning either left or right.
 
+![Parking Mode Training](docs/images/general-algorithm/racingtrack_mode_training.gif)
+
 In the **Parking mode**, the agent's observations consisted of 8 raycasts being casted at all directions around the player, the distance from the player to the chosen parking lot, the direction to the parking lot and the direction the car is currently facing. The agent's possible actions consisted of turning either left, right forward or backwards.
+
+![Parking Mode Training](docs/images/general-algorithm/parking_mode_training.gif)
 
 ## User Manual
 
@@ -35,27 +39,36 @@ In the **Parking mode**, the agent's observations consisted of 8 raycasts being 
 
 ### Playing Instructions
 
-1. Unzip the Smarticar.rar folder
-2. After unzipping the folder, run `Smarticar.exe` in order to start the application
+1. Unzip Smarticar.rar. After unzipping the folder, run `Smarticar.exe` in order to start the application
 
 ![Run Smarticar.exe](docs/images/user-manual/how-to-play/step_1.png)
 
-3. Press the START button for starting the game
+2. Press the START button for starting the game
 
-![Run Smarticar.exe](docs/images/user-manual/how-to-play/step_2.png)
+<div align="center">
+    <img src="docs/images/user-manual/how-to-play/step_2.png" alt="Game mode selection">
+</div>
 
-4. Choose the desired game mode 
+3. Choose the desired game mode 
 
-![Run Smarticar.exe](docs/images/user-manual/how-to-play/step_3.png)
+<div align="center">
+    <img src="docs/images/user-manual/how-to-play/step_3.png" alt="Game mode selection">
+</div>
 
-5. After choosing a game mode, the game instructions will appear
+4. After choosing a game mode, the game instructions will appear
 
-![Run Smarticar.exe](docs/images/user-manual/how-to-play/step_4.png)
+<div align="center">
+    <img src="docs/images/user-manual/how-to-play/step_4.png" alt="Game instructions">
+</div>
 
-6. After the countdown, the game will start and will end as soon as one the players wins (first to complete 2 consecutive laps). you can pause the game at any time by pressing on the ESC button
+5. After the countdown, the game will start and will end as soon as one the players wins (first to complete 2 consecutive laps). you can pause the game at any time by pressing on the ESC button
 
-![Run Smarticar.exe](docs/images/user-manual/how-to-play/step_5.png)
+<div align="center">
+    <img src="docs/images/user-manual/how-to-play/step_5.png" alt="Gameplay">
+</div>
 
-7. At the end of the game, stats will be displayed
+6. At the end of the game, stats will be displayed
 
-![Run Smarticar.exe](docs/images/user-manual/how-to-play/step_6.png)
+<div align="center">
+    <img src="docs/images/user-manual/how-to-play/step_6.png" alt="End of game">
+</div>
