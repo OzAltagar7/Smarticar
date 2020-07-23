@@ -43,46 +43,40 @@ In the **Parking mode**, the agent's observations consisted of 8 raycasts being 
 ### Playing Instructions
 
 1\. Unzip Smarticar.rar. After unzipping the folder, run `Smarticar.exe` in order to start the application
+
+![Run Smarticar.exe](docs/images/user-manual/how-to-play/PNG/step_1.png)
 <br/><br/>
 
-![Run Smarticar.exe](docs/images/user-manual/how-to-play/step_1.png)
-<br/><br/>
-
-2\. Press the START button for starting the game
-<br/><br/>
+2\. Press the START button in order to choose the desired game mode
 
 <div align="center">
-    <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_2.png" alt="Game mode selection" width=600 >
+    <img id="tutorial-image" src="docs/images/user-manual/how-to-play/GIF/step_2.gif" alt="Game mode selection" width=600 >
 </div>
 <br/><br/>
 
-3\. Choose the desired game mode 
-<br/><br/>
+3\. Choose one of the two game modes 
 
 <div align="center">
-    <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_3.png" alt="Game mode selection" width=600>
+    <img id="tutorial-image" src="docs/images/user-manual/how-to-play//GIF/step_3.gif" alt="Game mode selection" width=600>
 </div>
 <br/><br/>
 
-4\. After choosing a game mode, the game instructions will appear
-<br/><br/>
+4\. After choosing a game mode, the game instructions will appear. Press the START button in order to start the game
 
 <div align="center">
-    <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_4.png" alt="Game instructions" width=600>
+    <img id="tutorial-image" src="docs/images/user-manual/how-to-play//GIF/step_4.gif" alt="Game instructions" width=600>
 </div>
 <br/><br/>
 
 5\. After the countdown, the game will start and will end as soon as one the players wins (first to complete 2 consecutive laps). you can pause the game at any time by pressing on the ESC button
-<br/><br/>
 
 <div align="center">
-    <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_5.png" alt="Gameplay" width=600>
+    <img id="tutorial-image" src="docs/images/user-manual/how-to-play//GIF/step_5.gif" alt="Gameplay" width=600>
 </div>
 <br/><br/>
 
 6\. At the end of the game, stats will be displayed
-<br/><br/>
 
 <div align="center">
-    <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_6.png" alt="End of game" width=600>
+    <img id="tutorial-image" src="docs/images/user-manual/how-to-play//GIF/step_6.gif" alt="End of game" width=600>
 </div>
