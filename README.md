@@ -46,13 +46,15 @@ In the **Parking mode**, the agent's observations consisted of 8 raycasts being 
 <br/><br/>
 
 ![Run Smarticar.exe](docs/images/user-manual/how-to-play/step_1.png)
+<br/><br/>
 
 2\. Press the START button for starting the game
 <br/><br/>
 
 <div align="center">
-    <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_2.png" alt="Game mode selection" width=600>
+    <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_2.png" alt="Game mode selection" width=600 >
 </div>
+<br/><br/>
 
 3\. Choose the desired game mode 
 <br/><br/>
@@ -60,6 +62,7 @@ In the **Parking mode**, the agent's observations consisted of 8 raycasts being 
 <div align="center">
     <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_3.png" alt="Game mode selection" width=600>
 </div>
+<br/><br/>
 
 4\. After choosing a game mode, the game instructions will appear
 <br/><br/>
@@ -67,6 +70,7 @@ In the **Parking mode**, the agent's observations consisted of 8 raycasts being 
 <div align="center">
     <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_4.png" alt="Game instructions" width=600>
 </div>
+<br/><br/>
 
 5\. After the countdown, the game will start and will end as soon as one the players wins (first to complete 2 consecutive laps). you can pause the game at any time by pressing on the ESC button
 <br/><br/>
@@ -74,6 +78,7 @@ In the **Parking mode**, the agent's observations consisted of 8 raycasts being 
 <div align="center">
     <img id="tutorial-image" src="docs/images/user-manual/how-to-play/step_5.png" alt="Gameplay" width=600>
 </div>
+<br/><br/>
 
 6\. At the end of the game, stats will be displayed
 <br/><br/>
