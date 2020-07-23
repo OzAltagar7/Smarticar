@@ -9,7 +9,7 @@ Compete against the AI in two different game modes-
 - **Parking**, park as much as you can in different random parking spots in one minute
 
 for a complete documentation (hebrew), visit [Smarticar.pdf](docs/Smarticar.pdf) in `docs`.  
-for the apllication code, visit the [Scripts](Smarticar\Assets\Scripts) folder under `Smarticar\Assets\Scripts`
+for the application code, visit the [Scripts](Smarticar\Assets\Scripts) folder under `Smarticar\Assets\Scripts`
 
 ## General Algorithm
 
