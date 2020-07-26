@@ -68,7 +68,7 @@ In the **Parking mode**, the agent's observations consisted of 8 raycasts being 
 </div>
 <br/><br/>
 
-5. After the countdown, the game will start and will end as soon as one the players wins (first to complete 2 consecutive laps). you can pause the game at any time by pressing on the ESC button
+5. After the countdown, the game will start and will end as soon as one the players wins (first to complete 2 consecutive laps in the case of the racetrack mode). you can pause the game at any time by pressing on the ESC button
 
 <div align="center">
     <img id="tutorial-image" src="docs/images/user-manual/how-to-play//GIF/step_5.gif" alt="Gameplay" width=600>
